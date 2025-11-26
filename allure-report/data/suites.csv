@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Проверка создания нового аккаунта с валидными данными","2722","Успешное создание аккаунта","test","2025-11-26","passed","2025-11-26","TestRegistration","test_registration","",""
+"Проверка что авторизованный пользователь может перейти к созданию рецепта","2267","Доступ к странице создания рецепта","test","2025-11-26","passed","2025-11-26","TestRecipe","test_recipe","",""
+"Проверка авторизации с валидными учетными данными","6452","Успешная авторизация","test","2025-11-26","passed","2025-11-26","TestLogin","test_login","",""
